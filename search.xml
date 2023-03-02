@@ -33,33 +33,6 @@
     
     
     <entry>
-      <title>880记录</title>
-      <link href="/2023/02/28/0x3.880%E8%AE%B0%E5%BD%95/"/>
-      <url>/2023/02/28/0x3.880%E8%AE%B0%E5%BD%95/</url>
-      
-        <content type="html"><![CDATA[<figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> 记录 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 考研 </tag>
-            
-            <tag> 数学 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>知能行记录</title>
       <link href="/2023/02/28/0x2.%E7%9F%A5%E8%83%BD%E8%A1%8C%E8%AE%B0%E5%BD%95/"/>
       <url>/2023/02/28/0x2.%E7%9F%A5%E8%83%BD%E8%A1%8C%E8%AE%B0%E5%BD%95/</url>
@@ -76,9 +49,36 @@
       
         <tags>
             
+            <tag> 数学 </tag>
+            
             <tag> 考研 </tag>
             
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>880记录</title>
+      <link href="/2023/02/28/0x3.880%E8%AE%B0%E5%BD%95/"/>
+      <url>/2023/02/28/0x3.880%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
             <tag> 数学 </tag>
+            
+            <tag> 考研 </tag>
             
         </tags>
       
