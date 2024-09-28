@@ -14,7 +14,7 @@
 <meta property="og:description" content="2023-3-4 一，简单句五种基本句型及补语基本句型分五种，是因为有五种特性不同的动词而造成的。在所有的英语动词中，只有解释为“是”的动词是空的，完全没有意义。也只有这种动词才需要补语来补足句子的意思。 2323-3-9 五种动词： 不及物动词，主谓 及物动词，主谓宾 系动词（修饰主语），主谓补 评价性质的动词或使&#x2F;让，主谓宾宾补 双宾动词，主谓双宾  宾补和双宾的区别：1.宾补修饰">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2023-03-08T16:00:00.000Z">
-<meta property="article:modified_time" content="2023-05-05T08:05:02.060Z">
+<meta property="article:modified_time" content="2024-09-28T08:34:40.398Z">
 <meta property="article:author" content="Devil Fan">
 <meta property="article:tag" content="英语">
 <meta property="article:tag" content="语法">
@@ -82,10 +82,10 @@
     <span id="actions">
       <ul>
         
-        <li><a class="icon" aria-label="Previous post" href="/2023/03/09/0x41-%E6%96%87%E6%B3%95%E4%BF%B1%E4%B9%90%E9%83%A8%E7%AC%94%E8%AE%B0"><i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i></a></li>
+        <li><a class="icon" aria-label="Previous post" href="/2023/05/11/0x11-%E5%9F%BA%E7%A1%80%E9%98%B6%E6%AE%B5%E5%91%A8%E8%AE%A1%E5%88%92"><i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i></a></li>
         
         
-        <li><a class="icon" aria-label="Next post" href="/2023/03/04/0x30-zz%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0"><i class="fas fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i></a></li>
+        <li><a class="icon" aria-label="Next post" href="/2023/03/09/0x41-%E6%96%87%E6%B3%95%E4%BF%B1%E4%B9%90%E9%83%A8%E7%AC%94%E8%AE%B0"><i class="fas fa-chevron-right" aria-hidden="true" onmouseover="$('#i-next').toggle();" onmouseout="$('#i-next').toggle();"></i></a></li>
         
         <li><a class="icon" aria-label="Back to top" href="#" onclick="$('html, body').animate({ scrollTop: 0 }, 'fast');"><i class="fas fa-chevron-up" aria-hidden="true" onmouseover="$('#i-top').toggle();" onmouseout="$('#i-top').toggle();"></i></a></li>
         <li><a class="icon" aria-label="Share post" href="#"><i class="fas fa-share-alt" aria-hidden="true" onmouseover="$('#i-share').toggle();" onmouseout="$('#i-share').toggle();" onclick="$('#share').toggle();return false;"></i></a></li>
@@ -146,7 +146,7 @@
       
     <div class="article-category">
         <i class="fas fa-archive"></i>
-        <a class="category-link" href="/categories/%E8%AE%B0%E5%BD%95/">记录</a>
+        <a class="category-link" href="/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</a>
     </div>
 
 
