@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> xv6 </tag>
-            
             <tag> gdb </tag>
+            
+            <tag> xv6 </tag>
             
         </tags>
       
@@ -72,11 +72,11 @@
       
         <tags>
             
+            <tag> xv6 </tag>
+            
             <tag> 英语 </tag>
             
             <tag> OS </tag>
-            
-            <tag> xv6 </tag>
             
         </tags>
       
@@ -101,9 +101,9 @@
       
         <tags>
             
-            <tag> OS </tag>
-            
             <tag> xv6 </tag>
+            
+            <tag> OS </tag>
             
         </tags>
       
